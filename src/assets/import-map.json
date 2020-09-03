@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "salesprochild": "http://localhost:4201/main.js"
+  }
+}
